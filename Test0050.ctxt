@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=int\ multiplicacionEntera(int,\ int)
+comment1.params=dividendo\ divisor
+comment1.target=int\ divisionEntera(int,\ int)
+comment2.params=dividendo\ divisor
+comment2.target=int\ modulo(int,\ int)
+comment3.params=base\ esponente
+comment3.target=int\ potencia(int,\ int)
+numComments=4
