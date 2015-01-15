@@ -7,4 +7,6 @@ comment2.params=dividendo\ divisor
 comment2.target=int\ modulo(int,\ int)
 comment3.params=base\ esponente
 comment3.target=int\ potencia(int,\ int)
-numComments=4
+comment4.params=numero
+comment4.target=int\ raiz(int)
+numComments=5
